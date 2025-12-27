@@ -1,9 +1,5 @@
-To ensure your project is reproducible and professional for GitHub, you need a `requirements.txt` file. This allows other recruiters or developers to install the exact same environment you used with a single command.
-
-### 1. Creating the `requirements.txt`
-
-Create a new file in your main folder named `requirements.txt` and paste the following content:
-
+ 
+### 1. requirements
 ```text
 numpy
 opencv-python
@@ -12,11 +8,7 @@ scikit-image
 
 ```
 
-### 2. Adding the "How to Run" Section
-
-In your **Description** folder or at the bottom of your main **README**, you should add a "Usage" section. This shows you care about the user experience of your code.
-
----
+ 
 
 ## 🛠️ Installation & Usage
 
